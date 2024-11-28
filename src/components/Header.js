@@ -22,7 +22,7 @@ const Header = () => {
       <div className="flex justify-between items-center w-[90dvw]">
         <div className="flex flex-row items-center">
           <h1 className="text-2xl text-red-500 tracking-tight">
-            Berita<span className="font-bold text-gray-300">Merpati</span>
+            Berita<span className="font-extrabold text-gray-300">Merpati</span>
           </h1>
           <div className="text-red-500 px-2">
             <svg
